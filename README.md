@@ -1,4 +1,4 @@
-# Quote-Generator
+# Quote-Generator (added this bit - N. Alamo)
 
 ## User Stories and Separate Concerns for a Quote Generator in MVC
 
